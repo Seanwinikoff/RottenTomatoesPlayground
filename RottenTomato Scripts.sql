@@ -9,6 +9,8 @@ decade
 order by 
 decade desc;
 
+----------------------------------------------------------------------------------------------------------
+
 --this shows how many times these actors show up in movies-- uses joins to connect all 3 tables together 
 select 
 count(entertainment_workers.name)
